@@ -1,0 +1,3 @@
+[controller_node]
+localhost ansible_connection=local
+
